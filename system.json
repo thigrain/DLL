@@ -41,7 +41,7 @@
   "packs": [],
   "packFolders": [],
   "socket": false,
-  "manifest": "https://github.com/thigrain/DLL/blob/main/system.json",
+  "manifest": "https://github.com/thigrain/DLL/system.json",
   "download": "This must link to a .zip file of the current version",
   "background": "systems/boilerplate/assets/anvil-impact.png",
   "gridDistance": 5,
